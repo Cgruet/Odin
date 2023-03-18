@@ -1,3 +1,2 @@
-# git_test
-Demo git hub repo.
-Hello Odin!
+#Project Odin
+This is my work for the Project Odin curriculum
